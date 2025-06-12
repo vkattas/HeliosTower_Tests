@@ -1,0 +1,14 @@
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\bin\Debug\net9.0\HeliosTower_Tests.exe
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\bin\Debug\net9.0\HeliosTower_Tests.deps.json
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\bin\Debug\net9.0\HeliosTower_Tests.runtimeconfig.json
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\bin\Debug\net9.0\HeliosTower_Tests.dll
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\bin\Debug\net9.0\HeliosTower_Tests.pdb
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.AssemblyInfoInputs.cache
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.AssemblyInfo.cs
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.csproj.CoreCompileInputs.cache
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.dll
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\refint\HeliosTower_Tests.dll
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.pdb
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\HeliosTower_Tests.genruntimeconfig.cache
+C:\Projects\HeliosTower_Tests\HeliosTower_Tests\obj\Debug\net9.0\ref\HeliosTower_Tests.dll
